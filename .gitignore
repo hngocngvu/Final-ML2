@@ -1,0 +1,4 @@
+# Ignore all model files in the 'model' directory
+model/*.pkl
+data/*.csv
+source_model/*.py
